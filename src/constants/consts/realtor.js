@@ -1,4 +1,5 @@
 export const realtorData = {
-  email: 'fabians@bidata.cl',
+  email: 'carvalpropiedades@unne.cl',
+  phone:'933730414'
   // email: 'contacto@accionpanal.com',
 };
