@@ -41,7 +41,7 @@ const AboutComponent = () => {
           Carmen Villarroel.
           </p>
           <p className="text-xl xl:text-xl text-gray-700 ml-0 xl:ml-1 xl:text-left">
-          Corredora inmobiliaria.
+          Corredora inmobiliaria CVV propiedades.
           </p>
         </div>
     
